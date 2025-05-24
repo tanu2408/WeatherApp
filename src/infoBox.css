@@ -1,0 +1,4 @@
+.cardcontainer{
+    display :flex;
+    justify-content: center;
+}
